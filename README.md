@@ -11,6 +11,9 @@
 <li>The application allows you to easily connect people from HR departments of companies, including Headhunters [HR], with people looking for a job in IT.</li>
 <li>The application is to allow Mega K [Student] Students to present their skills.</li>
 <li>The application is to allow the Administrator to manage access to the student base.</li>
+<li>The application is to allow HR to easily find suitable candidates for work, interview them and propose cooperation.</li>
+
+
 </ul>
 
 ## Tech Stack 👾
